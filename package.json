@@ -1,6 +1,6 @@
 {
-  "name": "@solid/oidc-op",
-  "version": "0.5.0",
+  "name": "oidc-op-adapted",
+  "version": "0.6.0",
   "description": "OpenID Connect Provider",
   "main": "src/index.js",
   "directories": {
@@ -16,30 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/solid/oidc-op.git"
+    "url": "https://github.com/pedropiloto/oidc-op-adapted.git"
   },
-  "author": "Anvil Research, Inc.",
-  "contributors": [
-    {
-      "name": "Christian Smith",
-      "email": "smith@anvil.io",
-      "url": "http://anvil.io"
-    },
-    {
-      "name": "Greg Linklater",
-      "email": "greglink49@gmail.com",
-      "url": "https://github.com/EternalDeiwos"
-    },
-    {
-      "name": "Dmitri Zagidulin",
-      "url": "https://github.com/dmitrizagidulin/"
-    }
-  ],
+  "author": "Pedro Piloto",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/solid/oidc-op/issues"
+    "url": "https://github.com/pedropiloto/oidc-op-adapted/issues"
   },
-  "homepage": "https://github.com/solid/oidc-op#README",
+  "homepage": "https://github.com/pedropiloto/oidc-op-adapted",
   "dependencies": {
     "@solid/jose": "0.1.8",
     "@solid/keychain": "0.1.3",
